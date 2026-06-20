@@ -1,0 +1,14 @@
+{
+  "id": "uncanny-mailer",
+  "name": "Uncanny Mailer",
+  "tagline": "An easy Node.js package for mass personalized email campaigns. Built on top of NodeMailer and specifically for GMail",
+  "description": "Uncanny Mailer is an npm package built for sending mass personalized emails, especially useful for event advertisements and outreach campaigns.",
+  "techStack": ["TypeScript", "JavaScript", "Node.js", "npm", "NodeMailer"],
+  "links": {
+    "github": "https://github.com/Uncanny-Devs/Mailer",
+    "demo": "https://www.npmjs.com/package/uncanny-mailer"
+  },
+  "featured": true,
+  "priority": 90,
+  "hasDeepDive": false
+}
